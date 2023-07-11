@@ -1,0 +1,11 @@
+h1, h2 ,p {
+    font-family: 'Merriweather', serif;
+}
+.section-background-color{
+    background-color: rgb(185, 182, 177);
+}
+.redes-sociales a{
+    font-size: 30px;
+    margin: 2px 20px;
+    color: rgb(9, 130, 134);
+}
